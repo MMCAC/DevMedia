@@ -1,0 +1,19 @@
+Ctrl + N: New file;
+Ctrl + O: Open Arquive;
+Ctrl + K + Ctrl + O: Open File;
+Ctrl + S: Save File;
+
+Ctrl + ]: Divide the screen;
+
+Ctrl + B: Active/deactivate Lateral bar;
+
+Ctrl + F: Search something;
+
+Ctrl + H: To replace something;
+    Ctrl + ALt + Enter: Replace everything;
+
+Ctrl + ;: Add/Remove commented line;
+
+Shift + Alt + ↓: Duplicate Line;
+
+Alt + ↓ or ↑: Move a intire line;
